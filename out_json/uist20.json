@@ -1,0 +1,2423 @@
+{
+  "proceedings": "uist20",
+  "papers": [
+    {
+      "author": [
+        "Axel Antoine",
+        "Mathieu Nancel",
+        "Ella Ge",
+        "Jingjie Zheng",
+        "Navid Zolghadr",
+        "Géry Casiez"
+      ],
+      "institution": [
+        "Université de Lille",
+        "Inria Lille - Nord Europe",
+        "Google",
+        "Google",
+        "Google",
+        "Université de Lille"
+      ],
+      "country": [
+        "France",
+        "France",
+        "Canada",
+        "Canada",
+        "Canada",
+        "France"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415833",
+      "title": "Modeling and Reducing Spatial Jitter caused by Asynchronous Input and Output Rates"
+    },
+    {
+      "author": [
+        "Andrew Schoen",
+        "Curt Henrichs",
+        "Mathias Strohkirch",
+        "Bilge Mutlu"
+      ],
+      "institution": [
+        "University of Wisconsin-Madison",
+        "University of Wisconsin - Madison",
+        "University of Wisconsin-Madison",
+        "University of Wisconsin-Madison"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415872",
+      "title": "Authr: A Task Authoring Environment for Human-Robot Teams"
+    },
+    {
+      "author": [
+        "Carlos de la Torre-Ortiz",
+        "Michiel Spape",
+        "Lauri Kangassalo",
+        "Tuukka Ruotsalo"
+      ],
+      "institution": [
+        "University of Helsinki",
+        "University of Helsinki",
+        "University of Helsinki",
+        "University of Helsinki"
+      ],
+      "country": [
+        "Finland",
+        "Finland",
+        "Finland",
+        "Finland"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415821",
+      "title": "Brain Relevance Feedback for Interactive Image Generation"
+    },
+    {
+      "author": [
+        "Toby Li",
+        "Jingya Chen",
+        "Haijun Xia",
+        "Tom Mitchell",
+        "Brad Myers"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "UC San Diego",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415820",
+      "title": "Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs"
+    },
+    {
+      "author": [
+        "Mengqi Peng",
+        "Li-yi Wei",
+        "Rubaiat Habib Kazi",
+        "Vladimir Kim"
+      ],
+      "institution": [
+        "University of Hong Kong",
+        "Adobe Research",
+        "Adobe Research",
+        "Adobe"
+      ],
+      "country": [
+        "China",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415884",
+      "title": "Autocomplete Animated Sculpting"
+    },
+    {
+      "author": [
+        "Camilo Fosco",
+        "Vincent Casser",
+        "Amish Bedi",
+        "Zoya Bylinskii",
+        "Aaron Hertzmann",
+        "Peter O'Donovan"
+      ],
+      "institution": [
+        "MIT",
+        "Massachusetts Institute of Technology",
+        "Adobe Inc.",
+        "Adobe Research",
+        "Adobe",
+        "Adobe Systems, Inc. "
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "India",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415825",
+      "title": "Predicting Visual Importance Across Graphic Design Types"
+    },
+    {
+      "author": [
+        "Ritam Sarmah",
+        "Yunpeng Ding",
+        "Di Wang",
+        "Cheuk Yin Phipson Lee",
+        "Toby Li",
+        "Xiang 'Anthony' Chen"
+      ],
+      "institution": [
+        "UCLA HCI",
+        "UCLA HCI",
+        "UCLA HCI",
+        "University of California, Los Angeles",
+        "Carnegie Mellon University",
+        "UCLA"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415848",
+      "title": "Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications"
+    },
+    {
+      "author": [
+        "Vidya Setlur",
+        "Enamul Hoque",
+        "Dae Hyun Kim",
+        "Angel Chang"
+      ],
+      "institution": [
+        "Tableau Research",
+        "York University",
+        "Stanford University",
+        "Simon Fraser University"
+      ],
+      "country": [
+        "United States",
+        "Canada",
+        "United States",
+        "Canada"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415813",
+      "title": "Sneak Pique: Exploring Autocompletion as a Data Discovery Scaffold for Supporting Visual Analysis"
+    },
+    {
+      "author": [
+        "Jeremy Hartmann",
+        "Stephen DiVerdi",
+        "Cuong Nguyen",
+        "Daniel Vogel"
+      ],
+      "institution": [
+        "University of Waterloo",
+        "Adobe",
+        "Adobe Research",
+        "University of Waterloo"
+      ],
+      "country": [
+        "Canada",
+        "United States",
+        "United States",
+        "Canada"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415846",
+      "title": "View-Dependent Effects for 360° Virtual Reality Video"
+    },
+    {
+      "author": [
+        "Ken Nakagaki",
+        "Joanne Leong",
+        "Jordan L Tappa",
+        "Joao Wilbert",
+        "Hiroshi Ishii"
+      ],
+      "institution": [
+        "MIT Media Lab",
+        "MIT",
+        "Massachusetts Institute of Technology",
+        "MIT Media Lab",
+        "MIT"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415831",
+      "title": "HERMITS: Dynamically Reconfiguring the Interactivity of Self-propelled TUIs with Mechanical Shell Add-ons"
+    },
+    {
+      "author": [
+        "Youngkyung Choi",
+        "Neung Ryu",
+        "Myung Jin Kim",
+        "Artem Dementyev",
+        "Andrea Bianchi"
+      ],
+      "institution": [
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "MIT",
+        "KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "United States",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415840",
+      "title": "BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter"
+    },
+    {
+      "author": [
+        "Danli Luo",
+        "Jianzhe Gu",
+        "Fang Qin",
+        "Guanyun Wang",
+        "Lining Yao"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University ",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415855",
+      "title": "E-seed: Shape-Changing Interfaces that Self Drill"
+    },
+    {
+      "author": [
+        "Tuochao Chen",
+        "Benjamin Steeper",
+        "Kinan Alsheikh",
+        "Songyun Tao",
+        "Francois Guimbretiere",
+        "Cheng Zhang"
+      ],
+      "institution": [
+        "Cornell University",
+        "Cornell University",
+        "Cornell University",
+        "Cornell University",
+        "Cornell University",
+        "Cornell University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415879",
+      "title": "C-Face: Continuously reconstructing facial expressions by deep learning contours of the face with ear-mounted miniature cameras"
+    },
+    {
+      "author": [
+        "Megan Hofmann",
+        "Jennifer Mankoff",
+        "Scott Hudson"
+      ],
+      "institution": [
+        "Carnegie Mellon Universtiy",
+        "University of Washington",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415590",
+      "title": "KnitGIST: A Programming Synthesis Toolkit for Generating Functional Machine-Knitting Textures"
+    },
+    {
+      "author": [
+        "Alex Olwal",
+        "Kevin Balke",
+        "Dmitrii Votintcev",
+        "Thad Starner",
+        "Paula Conn",
+        "Bonnie Chinh",
+        "Benoit Corda"
+      ],
+      "institution": [
+        "Google Research",
+        "Google Research",
+        "Google Research",
+        "Google Research",
+        "Google Research",
+        "Google Research",
+        "Google Research"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415817",
+      "title": "Wearable Subtitles: Augmenting Spoken Communication with Lightweight Eyewear for All-day Captioning"
+    },
+    {
+      "author": [
+        "Mark Richardson",
+        "Robert Wang"
+      ],
+      "institution": [
+        "Facebook Reality Labs",
+        "Facebook Reality Labs"
+      ],
+      "country": [
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415816",
+      "title": "Decoding Surface Touch Typing from Hand-Tracking"
+    },
+    {
+      "author": [
+        "Thomas Langerak",
+        "Juan Zárate",
+        "Velko Vechev",
+        "Daniele Panozzo",
+        "Otmar Hilliges",
+        "David Lindlbauer"
+      ],
+      "institution": [
+        "ETH Zurich",
+        "ETH",
+        "ETH Zurich",
+        "New York University",
+        "ETH Zurich",
+        "ETH Zurich"
+      ],
+      "country": [
+        "Switzerland",
+        "Switzerland",
+        "Switzerland",
+        "United States",
+        "Switzerland",
+        "Switzerland"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415593",
+      "title": "Optimal Control for Electromagnetic Haptic Guidance Systems"
+    },
+    {
+      "author": [
+        "Nianlong Li",
+        "Han-Jong Kim",
+        "Luyao Shen",
+        "Feng Tian",
+        "Teng Han",
+        "Xing-Dong Yang",
+        "Tek-Jin Nam"
+      ],
+      "institution": [
+        "Institute of Software, Chinese Academy of Sciences",
+        "KAIST",
+        "Institute of Software, Chinese Academy of Sciences",
+        "Institute of software, Chinese Academy of Sciences",
+        "Institute of Software, Chinese Academy of Sciences",
+        "Dartmouth College",
+        "KAIST"
+      ],
+      "country": [
+        "China",
+        "Korea, Republic of",
+        "China",
+        "China",
+        "China",
+        "United States",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415812",
+      "title": "HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism"
+    },
+    {
+      "author": [
+        "Lei Zhang",
+        "Steve Oney"
+      ],
+      "institution": [
+        "University of Michigan",
+        "University of Michigan"
+      ],
+      "country": [
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415824",
+      "title": "FlowMatic: An Immersive Authoring Tool for Creating Interactive Scenes in Virtual Reality"
+    },
+    {
+      "author": [
+        "Jun Gong",
+        "Aakar Gupta",
+        "Hrvoje Benko"
+      ],
+      "institution": [
+        "Facebook",
+        "Facebook Inc",
+        "Facebook"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415901",
+      "title": "Acustico: Surface Tap Detection and Localization using Wrist-based Acoustic TDOA Sensing"
+    },
+    {
+      "author": [
+        "Sorin Lerner"
+      ],
+      "institution": [
+        "UC San Diego"
+      ],
+      "country": [
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415834",
+      "title": "Focused Live Programming with Loop Seeds"
+    },
+    {
+      "author": [
+        "Ryo Takahashi",
+        "Masaaki Fukumoto",
+        "Changyo Han",
+        "Takuya Sasatani",
+        "Yoshiaki Narusue",
+        "Yoshihiro Kawahara"
+      ],
+      "institution": [
+        "The University of Tokyo",
+        "Microsoft Research",
+        "The University of Tokyo",
+        "The University of Tokyo",
+        "The University of Tokyo",
+        "The university of Tokyo"
+      ],
+      "country": [
+        "Japan",
+        "China",
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415873",
+      "title": "TelemetRing: A Batteryless and Wireless Ring-shaped Keyboard using Passive Inductive Telemetry"
+    },
+    {
+      "author": [
+        "Ryuma Niiyama",
+        "Hiroki Sato",
+        "kazzmasa TSUJIMURA",
+        "Koya Narumi",
+        "Young ah Seong",
+        "Ryosuke Yamamura",
+        "Yasuaki Kakehi",
+        "Yoshihiro Kawahara"
+      ],
+      "institution": [
+        "The University of Tokyo",
+        "The University of Tokyo",
+        "The University of Tokyo ",
+        "The University of Tokyo",
+        "The University of Tokyo",
+        "mercari R4D",
+        "The University of Tokyo",
+        "The University of Tokyo"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415894",
+      "title": "poimo: Portable and Inflatable Mobility Devices Customizable for Personal Physical Characteristics"
+    },
+    {
+      "author": [
+        "Humphrey Yang",
+        "Kuanren Qian",
+        "Haolin Liu",
+        "Yuxuan Yu",
+        "Jianzhe Gu",
+        "Matthew McGehee",
+        "Yongjie Zhang",
+        "Lining Yao"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415867",
+      "title": "SimuLearn: Fast and Accurate Simulator to Support  Morphing Materials Design and Workflows"
+    },
+    {
+      "author": [
+        "YAN YIXIAN",
+        "Kazuki Takashima",
+        "Anthony Tang",
+        "Takayuki Tanno",
+        "Kazuyuki Fujita",
+        "Yoshifumi Kitamura"
+      ],
+      "institution": [
+        "Tohoku University",
+        "Tohoku University",
+        "University of Toronto",
+        "Tohoku University",
+        "Tohoku University",
+        "Tohoku University"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "Canada",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415859",
+      "title": "ZoomWalls: Dynamic Walls that Simulate Haptic Infrastructure for Room-scale VR World"
+    },
+    {
+      "author": [
+        "Artem Dementyev",
+        "Alex Olwal",
+        "Richard Lyon"
+      ],
+      "institution": [
+        "Google Research",
+        "Google",
+        "Google"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415823",
+      "title": "Haptics with Input: Back-EMF in Linear Resonant Actuators to Enable Touch, Pressure and Environmental Awareness"
+    },
+    {
+      "author": [
+        "Yifan Wu",
+        "Joseph Hellerstein",
+        "Arvind Satyanarayan"
+      ],
+      "institution": [
+        "UC Berkeley",
+        "UC Berkeley",
+        "MIT"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415851",
+      "title": "B2: Bridging Code and Interactive Visualization in Computational Notebooks"
+    },
+    {
+      "author": [
+        "Youngbo Shim",
+        "Keunwoo Park",
+        "Sangyoon Lee",
+        "Jeongmin Son",
+        "Taeyun Woo",
+        "Geehyuk Lee"
+      ],
+      "institution": [
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415850",
+      "title": "FS-Pad: Video Game Interactions with a Force Feedback Gamepad"
+    },
+    {
+      "author": [
+        "Tianyi Wang",
+        "Xun Qian",
+        "Fengming He",
+        "Xiyun Hu",
+        "Ke Huo",
+        "Yuanzhi Cao",
+        "Karthik Ramani"
+      ],
+      "institution": [
+        "Purdue University",
+        "Purdue University",
+        "Purdue University",
+        "Purdue University ",
+        "Purdue University",
+        "Purdue University",
+        "Purdue University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415815",
+      "title": "CAPturAR: An Augmented Reality Tool for Authoring Human-Involved Context-Aware Applications"
+    },
+    {
+      "author": [
+        "Kasra Ferdowsifard",
+        "Allen Ordookhanians",
+        "Hila Peleg",
+        "Sorin Lerner",
+        "Nadia Polikarpova"
+      ],
+      "institution": [
+        "UC San Diego",
+        "UC San Diego",
+        "UC San Diego",
+        "UC San Diego",
+        "UC San Diego"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415869",
+      "title": "Small-Step Live Programming by Example"
+    },
+    {
+      "author": [
+        "Thomas Langerak",
+        "Juan Zárate",
+        "David Lindlbauer",
+        "Christian Holz",
+        "Otmar Hilliges"
+      ],
+      "institution": [
+        "ETH Zurich",
+        "ETH",
+        "ETH Zurich",
+        "ETH Zurich",
+        "ETH Zurich"
+      ],
+      "country": [
+        "Switzerland",
+        "Switzerland",
+        "Switzerland",
+        "Switzerland",
+        "Switzerland"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415589",
+      "title": "Omni: Volumetric Sensing and Actuation of Passive Magnetic Tools for Dynamic Haptic Feedback"
+    },
+    {
+      "author": [
+        "Amy Pavel",
+        "Gabriel Reyes",
+        "Jeffrey P. Bigham"
+      ],
+      "institution": [
+        "Apple",
+        "Apple Inc.",
+        "Apple"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415864",
+      "title": "Rescribe: Authoring and Automatically Editing Audio Descriptions"
+    },
+    {
+      "author": [
+        "Elodie Bouzbib",
+        "Gilles Bailly",
+        "Sinan Haliyo",
+        "Pascal Frey"
+      ],
+      "institution": [
+        "Sorbonne Université, CNRS, ISIR",
+        "Sorbonne Université, CNRS, ISIR",
+        "Sorbonne Université",
+        "Sorbonne Université"
+      ],
+      "country": [
+        "France",
+        "France",
+        "France",
+        "France"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415891",
+      "title": "CoVR: A Large-Scale Force-Feedback Robotic Interface for Non-Deterministic Scenarios in VR"
+    },
+    {
+      "author": [
+        "Jun Nishida",
+        "Soichiro Matsuda",
+        "Hiroshi Matsui",
+        "Shan-Yuan Teng",
+        "ziwei Liu",
+        "Kenji Suzuki",
+        "Pedro Lopes"
+      ],
+      "institution": [
+        "University of Chicago",
+        "Tsukuba University",
+        "Ruhr-University Bochum",
+        "University of Chicago",
+        "The University of Chicago ",
+        "University of Tsukuba",
+        "University of Chicago"
+      ],
+      "country": [
+        "United States",
+        "Japan",
+        "Germany",
+        "United States",
+        "United States",
+        "Japan",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415875",
+      "title": "HandMorph: a Passive Exoskeleton that Miniaturizes Grasp"
+    },
+    {
+      "author": [
+        "Keunwoo Park",
+        "Sunbum Kim",
+        "Youngwoo Yoon",
+        "Tae-Kyun Kim",
+        "Geehyuk Lee"
+      ],
+      "institution": [
+        "KAIST",
+        "KAIST",
+        "ETRI",
+        "Imperial College London",
+        "School of Computing, KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "United Kingdom",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415818",
+      "title": "DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera"
+    },
+    {
+      "author": [
+        "Md. Farhan Tasnim Oshim",
+        "Julian Killingback",
+        "Dave Follette",
+        "Huaishu Peng",
+        "Tauhidur Rahman"
+      ],
+      "institution": [
+        "University of Massachusetts Amherst",
+        "University of Massachusetts Amherst",
+        "University of Massachusetts Amherst",
+        "University of Maryland",
+        "University of Massachusetts Amherst"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415902",
+      "title": "MechanoBeat: Monitoring Interactions with Everyday Objects using 3D Printed Harmonic Oscillators and Ultra-Wideband Radar"
+    },
+    {
+      "author": [
+        "Marc McGill",
+        "Aidan Kehoe",
+        "Euan Freeman",
+        "Stephen Brewster"
+      ],
+      "institution": [
+        "University of Glasgow",
+        "University of Glasgow",
+        "University of Glasgow"
+      ],
+      "country": [],
+      "url": "https://dl.acm.org/doi/10.1145/3380959",
+      "title": "Expanding the Bounds of Seated Virtual Workspaces"
+    },
+    {
+      "author": [
+        "Jiahao Li",
+        "Meilin Cui",
+        "Jeeeun Kim",
+        "Xiang 'Anthony' Chen"
+      ],
+      "institution": [
+        "UCLA",
+        "University of California, Los Angeles",
+        "Texas A&M University",
+        "UCLA"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415826",
+      "title": "Romeo: A Design Tool for Embedding Transformable Parts in 3D Models to Robotically Augment Default Functionalities"
+    },
+    {
+      "author": [
+        "Blaine Levis",
+        "Daniel Vogel"
+      ],
+      "institution": [
+        "University of Waterloo",
+        "University of Waterloo"
+      ],
+      "country": [],
+      "url": "https://dx.doi.org/10.1145/3418196",
+      "title": "Longer Delays in Rehearsal-based Interfaces Increase Expert Use"
+    },
+    {
+      "author": [
+        "Thomas Preindl",
+        "Cedric Honnet",
+        "Andreas Pointner",
+        "Roland Aigner",
+        "Joe Paradiso",
+        "Michael Haller"
+      ],
+      "institution": [
+        "University of Applied Sciences Upper Austria",
+        "Media Lab",
+        "University of Applied Sciences Upper Austria",
+        "University of Applied Sciences Upper Austria",
+        "MIT Media Lab",
+        "University of Applied Sciences Upper Austria"
+      ],
+      "country": [
+        "Austria",
+        "United States",
+        "Austria",
+        "Austria",
+        "United States",
+        "Austria"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415888",
+      "title": "Sonoflex: Embroidered Speakers Without Permanent Magnets"
+    },
+    {
+      "author": [
+        "Matthias Hohmann",
+        "Lisa Konieczny",
+        "Michelle Hackl",
+        "Brian Wirth",
+        "Talha Zaman",
+        "Raffi Enficiaud",
+        "Moritz Grosse-Wentrup",
+        "Bernhard Schölkopf"
+      ],
+      "institution": [
+        "Max Planck Institute for Intelligent Systems",
+        "Max Planck Institute for Intelligent Systems",
+        "Max Planck Institute for Intelligent Systems",
+        "Max Planck Institute for Intelligent Systems",
+        "Max Planck Institute for Intelligent Systems",
+        "Max Planck Institute for Intelligent Systems",
+        "University of Vienna",
+        "Max Planck Institute for Intelligent Systems"
+      ],
+      "country": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Austria",
+        "Germany"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415844",
+      "title": "MYND: Unsupervised Evaluation of Novel BCI Control Strategies on Consumer Hardware"
+    },
+    {
+      "author": [
+        "Junyi Zhu",
+        "Yunyi Zhu",
+        "Jiaming Cui",
+        "Leon Cheng",
+        "Jackson Snowden",
+        "Mark Chounlakone",
+        "Michael Wessely",
+        "Stefanie Mueller"
+      ],
+      "institution": [
+        "MIT CSAIL",
+        "MIT CSAIL",
+        "MIT CSAIL",
+        "MIT CSAIL",
+        "MIT CSAIL",
+        "MIT CSAIL",
+        "MIT CSAIL",
+        "MIT CSAIL"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415898",
+      "title": "MorphSensor: A 3D Electronic Design Tool for Reforming Sensor Modules"
+    },
+    {
+      "author": [
+        "Neung Ryu",
+        "Woojin Lee",
+        "Myung Jin Kim",
+        "Andrea Bianchi"
+      ],
+      "institution": [
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415862",
+      "title": "ElaStick: A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object"
+    },
+    {
+      "author": [
+        "Thibault Louis",
+        "Jocelyne Troccaz",
+        "Amélie Rochet-Capellan",
+        "François Bérard"
+      ],
+      "institution": [
+        " Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG",
+        "CNRS - Univ. Grenoble Alpes",
+        "CNRS",
+        "University of Grenoble Alpes"
+      ],
+      "country": [
+        "France",
+        "France",
+        "France",
+        "France"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415893",
+      "title": "GyroSuite: General-Purpose Interactions for Handheld Perspective Corrected Displays"
+    },
+    {
+      "author": [
+        "Jeremy Hartmann",
+        "Yen-Ting Yeh",
+        "Daniel Vogel"
+      ],
+      "institution": [
+        "University of Waterloo",
+        "University of Waterloo",
+        "University of Waterloo"
+      ],
+      "country": [
+        "Canada",
+        "Canada",
+        "Canada"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415849",
+      "title": "AAR: Augmenting a Wearable Augmented Reality Display with an Actuated Head-Mounted Projector "
+    },
+    {
+      "author": [
+        "Homei Miyashita"
+      ],
+      "institution": [
+        "Meiji University"
+      ],
+      "country": [
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415852",
+      "title": "Taste Display that Reproduces Tastes Measured by a Taste Sensor"
+    },
+    {
+      "author": [
+        "Tony Wu",
+        "Shiho Fukuhara",
+        "Nicholas Gillian",
+        "Kishore Sundara-Rajan",
+        "Ivan Poupyrev"
+      ],
+      "institution": [
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415886",
+      "title": "ZebraSense: A Double-sided Textile Touch Sensor for Smart Apparel"
+    },
+    {
+      "author": [
+        "C. Ailie Fraser",
+        "Julia M. Markel",
+        "N. James Basa",
+        "Mira Dontcheva",
+        "Scott Klemmer"
+      ],
+      "institution": [
+        "UC San Diego",
+        "UC San Diego",
+        "UC San Diego",
+        "Adobe Research",
+        "UC San Diego"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415592",
+      "title": "ReMap: Lowering the Barrier to Help-Seeking with Multimodal Search"
+    },
+    {
+      "author": [
+        "Chaeyong Park",
+        "Jinhyuk Yoon",
+        "Seungjae Oh",
+        "Seungmoon Choi"
+      ],
+      "institution": [
+        "Pohang University of Science and Technology",
+        "Pohang University of Science and Technology",
+        "POSTECH",
+        "Pohang University of Science and Technology (POSTECH)"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415837",
+      "title": "Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels"
+    },
+    {
+      "author": [
+        "Eric Gonzalez",
+        "Parastoo Abtahi",
+        "Sean Follmer"
+      ],
+      "institution": [
+        "Stanford University",
+        "Stanford University",
+        "Stanford University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415870",
+      "title": "REACH+: Extending the Reachability of Encountered-type Haptics Devices through Dynamic Redirection in VR"
+    },
+    {
+      "author": [
+        "Erwin Wu",
+        "Ye Yuan",
+        "Hui-Shyong Yeo",
+        "Aaron Quigley",
+        "Hideki Koike",
+        "Kris Kitani"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "University of St Andrews",
+        "University of St Andrews",
+        "Tokyo Institute of Technology",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United Kingdom",
+        "United Kingdom",
+        "Japan",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415897",
+      "title": "Back-Hand-Pose: 3D Hand Pose Estimation for a Wrist-worn Camera via Dorsum Deformation Network"
+    },
+    {
+      "author": [
+        "Peggy Chi",
+        "Zheng Sun",
+        "Katrina Panovich",
+        "Irfan Essa"
+      ],
+      "institution": [
+        "Google Research",
+        "Google Research",
+        "Google",
+        "Google Research"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415814",
+      "title": "Automatic Video Creation From a Web Page"
+    },
+    {
+      "author": [
+        "Hugo Romat",
+        "Christopher Collins",
+        "Nathalie Henry Riche",
+        "Michel Pahud",
+        "Christian Holz",
+        "Adam Riddle",
+        "William Buxton",
+        "Ken Hinckley"
+      ],
+      "institution": [
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "ETH Zurich",
+        "Microsoft Expat",
+        "Microsoft Research",
+        "Microsoft Research"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "Switzerland",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415861",
+      "title": "Tilt-Responsive Techniques for Digital Drawing Boards"
+    },
+    {
+      "author": [
+        "Danny Leen",
+        "Nadya Peek",
+        "Raf Ramakers"
+      ],
+      "institution": [
+        "KULeuven",
+        "University of Washington",
+        "Flanders Make - Expertise Centre for Digital Media"
+      ],
+      "country": [
+        "Belgium",
+        "United States",
+        "Belgium"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415885",
+      "title": "LamiFold: Fabricating Objects with Integrated Mechanisms Using a Laser cutter Lamination Workflow"
+    },
+    {
+      "author": [
+        "Thomas Ball",
+        "Shannon Kao",
+        "Richard Knoll",
+        "Daryl Zuniga"
+      ],
+      "institution": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415839",
+      "title": "Creation of Video Games on Gaming Handhelds"
+    },
+    {
+      "author": [
+        "Shota Yamanaka",
+        "Hiroki Usuba",
+        "Haruki Takahashi",
+        "Homei Miyashita"
+      ],
+      "institution": [
+        "Yahoo Japan Corporation",
+        "Meiji University",
+        "Meiji University",
+        "Meiji University"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415896",
+      "title": "Servo-Gaussian Model to Predict Success Rates in Manual Tracking: Path Steering and Pursuit of 1D Moving Target"
+    },
+    {
+      "author": [
+        "Richard Lin",
+        "Rohit Ramesh",
+        "Connie Chi",
+        "Nikhil Jain",
+        "Ryan Nuqui",
+        "Prabal Dutta",
+        "Bjoern Hartmann"
+      ],
+      "institution": [
+        "University of California, Berkeley",
+        "University of California, Berkeley",
+        "University of California, Berkeley",
+        "University of California, Berkeley",
+        "University of California, Berkeley",
+        "University of California, Berkeley",
+        "UC Berkeley"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415860",
+      "title": "Polymorphic Blocks: unifying high-level specification and low-level control for circuit board design"
+    },
+    {
+      "author": [
+        "Ruofei Du",
+        "Eric Turner",
+        "Max Dzitsiuk",
+        "Luca Prasso",
+        "Ivo Duarte",
+        "Jason Dourgarian",
+        "Joao Afonso",
+        "Jose Pascoal",
+        "Josh Gladstone",
+        "Nuno Cruces",
+        "Shahram Izadi",
+        "Adarsh Kowdle",
+        "Konstantine Tsotsos",
+        "David Kim"
+      ],
+      "institution": [
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google Inc."
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "Portugal",
+        "United States",
+        "Portugal",
+        "Portugal",
+        "United States",
+        "Portugal",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415881",
+      "title": "DepthLab: Real-time 3D Interaction with Depth Maps for Mobile Augmented Reality"
+    },
+    {
+      "author": [
+        "Wenzhe Cui",
+        "Suwen Zhu",
+        "Mingrui Zhang",
+        "Andrew Schwartz",
+        "Jacob Wobbrock",
+        "Xiaojun Bi"
+      ],
+      "institution": [
+        "Stony Brook University",
+        "Stony Brook University",
+        "University of Washington",
+        "Stony Brook University",
+        "University of Washington",
+        "Stony Brook University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415857",
+      "title": "JustCorrect: Intelligent Post Hoc Text Correction Techniques on Smartphones"
+    },
+    {
+      "author": [
+        "Xiao TANG",
+        "Xiaowei Hu",
+        "Chi-Wing Fu",
+        "Daniel CohenOr"
+      ],
+      "institution": [
+        "The Chinese University of Hong Kong",
+        "The Chinese University of Hong Kong",
+        "The Chinese University of Hong Kong",
+        "Tel Aviv University"
+      ],
+      "country": [
+        "China",
+        "China",
+        "China",
+        "Israel"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415835",
+      "title": "GrabAR: Occlusion-aware Grabbing Virtual Objects in AR"
+    },
+    {
+      "author": [
+        "Jackie Yang",
+        "Monica Lam",
+        "James Landay"
+      ],
+      "institution": [
+        "Stanford University",
+        "Stanford University",
+        "Stanford University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415841",
+      "title": "DoThisHere: Using multi-modal interaction to support cross-application tasks on mobile devices"
+    },
+    {
+      "author": [
+        "Karan Ahuja",
+        "Andy Kong",
+        "Mayank Goel",
+        "Chris Harrison"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415588",
+      "title": "Direction-of-Voice (DoV) Estimation for Intuitive Speech Interaction with Smart Device Ecosystems"
+    },
+    {
+      "author": [
+        "Tzu-Yun Wei",
+        "Hsin-Ruey Tsai",
+        "Yu-So Liao",
+        "Chieh Tsai",
+        "Yi Shan Chen",
+        "Chi Wang",
+        "Bing-Yu Chen"
+      ],
+      "institution": [
+        "National Taiwan University",
+        "National Chengchi University",
+        "National Chengchi University",
+        "National Chengchi University",
+        "National Taiwan University ",
+        "National Taiwan University",
+        "National Taiwan University"
+      ],
+      "country": [
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415836",
+      "title": "ElastiLinks: Force Feedback between VR Controllers with Dynamic Points of Application of Force"
+    },
+    {
+      "author": [
+        "Daehwa Kim",
+        "Keunwoo Park",
+        "Geehyuk Lee"
+      ],
+      "institution": [
+        "KAIST",
+        "School of Computing, KAIST",
+        "School of Computing, KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415889",
+      "title": "OddEyeCam: A Sensing Technique for Body-Centric Peephole Interaction using WFoV RGB and NFoV Depth Cameras"
+    },
+    {
+      "author": [
+        "Evan Shimizu",
+        "Matthew Fisher",
+        "Sylvain Paris",
+        "James McCann",
+        "Kayvon Fatahalian"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Adobe Systems",
+        "Adobe",
+        "Carnegie Mellon University",
+        "Stanford University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415866",
+      "title": "Design Adjectives: A Framework for Interactive Model-Guided Exploration of Parameterized Design Spaces"
+    },
+    {
+      "author": [
+        "Rinat Abdrashitov",
+        "Fanny Chevalier",
+        "Karan Singh"
+      ],
+      "institution": [
+        "University of Toronto",
+        "University of Toronto",
+        "University of Toronto"
+      ],
+      "country": [
+        "Canada",
+        "Canada",
+        "Canada"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415877",
+      "title": "Interactive Exploration and Refinement of Facial Expression using Manifold Learning"
+    },
+    {
+      "author": [
+        "Maria Larsson",
+        "Hironori Yoshida",
+        "Nobuyuki Umetani",
+        "Takeo Igarashi"
+      ],
+      "institution": [
+        "University of Tokyo",
+        "Creative Informatics",
+        "The University of Tokyo",
+        "The University of Tokyo"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415899",
+      "title": "Tsugite: Interactive Design and Fabrication of Wood Joints"
+    },
+    {
+      "author": [
+        "Thijs Roumen",
+        "Ingo Apel",
+        "Jotaro Shigeyama",
+        "Muhammad Abdullah",
+        "Patrick Baudisch"
+      ],
+      "institution": [
+        "Hasso Plattner Institute",
+        "Hasso Plattner Institute",
+        "Hasso Plattner Institute",
+        "Hasso Plattner Institute",
+        "Hasso Plattner Institute"
+      ],
+      "country": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415895",
+      "title": "Kerf-Canceling Mechanisms: Making Laser-Cut Mechanisms Operate across Different Laser Cutters"
+    },
+    {
+      "author": [
+        "Thomas Prinz",
+        "Linda Gräfe",
+        "Jan Plötner"
+      ],
+      "institution": [
+        "Friedrich Schiller University Jena",
+        "Friedrich-Schiller-University Jena",
+        "Friedrich Schiller University Jena"
+      ],
+      "country": [
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415838",
+      "title": "Learning from the Past - Do Historical Data Help to Improve Progress Indicators in Web Surveys?"
+    },
+    {
+      "author": [
+        "Jack Forman",
+        "Mustafa Doga Dogan",
+        "Hamilton Forsythe",
+        "Hiroshi Ishii"
+      ],
+      "institution": [
+        "Massachusetts Institute of Technology",
+        "MIT CSAIL",
+        "Massachusetts Institute of Technology",
+        "MIT"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415876",
+      "title": "DefeXtiles: 3D Printing Quasi-Woven Fabric via Under-Extrusion"
+    },
+    {
+      "author": [
+        "Balasaravanan Thoravi Kumaravel",
+        "Cuong Nguyen",
+        "Stephen DiVerdi",
+        "Bjoern Hartmann"
+      ],
+      "institution": [
+        "UC Berkeley",
+        "Adobe Research",
+        "Adobe",
+        "UC Berkeley"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415827",
+      "title": "TransceiVR: Bridging Asymmetrical Communication Between External and VR Users"
+    },
+    {
+      "author": [
+        "Robert Kovacs",
+        "Eyal Ofek",
+        "Mar Gonzalez-Franco",
+        "Alexa Siu",
+        "Sebastian Marwecki",
+        "Christian Holz",
+        "Mike Sinclair"
+      ],
+      "institution": [
+        "Hasso Plattner Institute",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Stanford University",
+        "Hasso Plattner Institute",
+        "ETH Zurich",
+        "Microsoft"
+      ],
+      "country": [
+        "Germany",
+        "United States",
+        "United States",
+        "United States",
+        "Germany",
+        "Switzerland",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415854",
+      "title": "Haptic PIVOT: On-Demand Handhelds in VR"
+    },
+    {
+      "author": [
+        "Yunwoo Jeong",
+        "Han-Jong Kim",
+        "Gyeongwon Yun",
+        "Tek-Jin Nam"
+      ],
+      "institution": [
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415880",
+      "title": "WIKA: A Projected Augmented Reality Workbench for Interactive Kinetic Art"
+    },
+    {
+      "author": [
+        "Paul Strohmeier",
+        "Seref Güngör",
+        "Luis Herres",
+        "Dennis Gudea",
+        "Bruno Fruchard",
+        "Jürgen Steimle"
+      ],
+      "institution": [
+        "Saarland Informatics Campus",
+        "Saarland Informatics Campus",
+        "Saarland Informatics Campus",
+        "Saarland Informatics Campus",
+        "Saarland Informatics Campus",
+        "Saarland University, Saarland Informatics Campus"
+      ],
+      "country": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415828",
+      "title": "bARefoot: Generating Virtual Materials using Motion Coupled Vibration in Shoes"
+    },
+    {
+      "author": [
+        "Jingyuan Liu",
+        "Hongbo Fu",
+        "Chiew-Lan Tai"
+      ],
+      "institution": [
+        "Hong Kong University of Science and Technology",
+        "City University of Hong Kong",
+        "Hong Kong Univeristy of Science and Technology"
+      ],
+      "country": [
+        "China",
+        "Hong Kong",
+        "China"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415822",
+      "title": "PoseTween: Pose-driven Tween Animation"
+    },
+    {
+      "author": [
+        "Chiu-Hsuan Wang",
+        "Hsin-Yu Chen",
+        "Yuan-Syun Ye",
+        "Seraphina Yong",
+        "Liwei Chan"
+      ],
+      "institution": [
+        "Nation Chiao Tung University",
+        "Institute of Multimedia Engineering",
+        "National Chiao Tung University",
+        "National Taiwan University",
+        "Computer Science"
+      ],
+      "country": [
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415847",
+      "title": "HMD Light: Sharing In-VR Experience via Head-Mounted Projector for Asymmetric Interaction"
+    },
+    {
+      "author": [
+        "Christopher Clarke",
+        "Doga Cavdir",
+        "Patrick Chiu",
+        "Laurent Denoue",
+        "Don Kimber"
+      ],
+      "institution": [
+        "Lancaster University",
+        "Stanford Universtiy",
+        "FX Palo Alto Laboratory",
+        "FXPAL",
+        "FX Palo Alto Laboratory"
+      ],
+      "country": [
+        "United Kingdom",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415591",
+      "title": "Reactive Video: Adaptive Video Playback Based on User Motion for Supporting Physical Activity"
+    },
+    {
+      "author": [
+        "Devamardeep Hayatpur",
+        "Haijun Xia",
+        "Daniel Wigdor"
+      ],
+      "institution": [
+        "University of Toronto",
+        "University of California, San Diego",
+        "University of Toronto"
+      ],
+      "country": [
+        "Canada",
+        "United States",
+        "Canada"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415878",
+      "title": "DataHop: Spatial Data Exploration in Virtual Reality"
+    },
+    {
+      "author": [
+        "Ryo Suzuki",
+        "Rubaiat Habib Kazi",
+        "Li-yi Wei",
+        "Stephen DiVerdi",
+        "Wilmot Li",
+        "Daniel Leithinger"
+      ],
+      "institution": [
+        "University of Colorado Boulder",
+        "Adobe Research",
+        "Adobe Research",
+        "Adobe",
+        "Adobe",
+        "University of Colorado, Boulder"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415892",
+      "title": "RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching"
+    },
+    {
+      "author": [
+        "Jess McIntosh",
+        "Hubert Zajac",
+        "Andreea Stefan",
+        "Joanna Bergström",
+        "Kasper Hornbæk"
+      ],
+      "institution": [
+        "University of Copenhagen",
+        "University of Copenhagen",
+        "University of Copenhagen",
+        "University of Copenhagen",
+        "University of Copenhagen"
+      ],
+      "country": [
+        "Denmark",
+        "Denmark",
+        "Denmark",
+        "Denmark",
+        "Denmark"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415832",
+      "title": "Iteratively Adapting Avatars using Task-Integrated Optimisation"
+    },
+    {
+      "author": [
+        "Haijun Xia",
+        "Jennifer Jacobs",
+        "Maneesh Agrawala"
+      ],
+      "institution": [
+        "University of California, San Diego",
+        "University of California Santa Barbara",
+        "Stanford University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415882",
+      "title": "Crosscast: Adding Visuals to Audio Travel Podcasts"
+    },
+    {
+      "author": [
+        "Masahiro Yamaguchi",
+        "Shohei Mori",
+        "Peter Mohr",
+        "Markus Tatzgern",
+        "Ana Stanescu",
+        "Hideo Saito",
+        "Denis Kalkofen"
+      ],
+      "institution": [
+        "Keio University",
+        "Graz University of Technology",
+        "Graz University of Technology",
+        "Salzburg University of Applied Sciences",
+        "Graz University of Technology",
+        "Keio University",
+        "Graz University of Technology"
+      ],
+      "country": [
+        "Japan",
+        "Austria",
+        "Austria",
+        "Austria",
+        "Austria",
+        "Japan",
+        "Austria"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415819",
+      "title": "Video-Annotated Augmented Reality Assembly Tutorials"
+    },
+    {
+      "author": [
+        "Julien Gori",
+        "Han Han",
+        "Michel Beaudouin-Lafon"
+      ],
+      "institution": [
+        "Laboratoire de Recherche en Informatique, Université Paris-Saclay, CNRS, Inria",
+        "Université Paris-Saclay, CNRS, Inria",
+        "Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay"
+      ],
+      "country": [
+        "France",
+        "France",
+        "France"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415830",
+      "title": "FileWeaver: Flexible File Management with Automatic Dependency Tracking"
+    },
+    {
+      "author": [
+        "Joseph Chee Chang",
+        "Nathan Hahn",
+        "Aniket Kittur"
+      ],
+      "institution": [
+        "HCII and LTI",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415865",
+      "title": "Mesh: Scaffolding Comparison Tables for Online Decision Making"
+    },
+    {
+      "author": [
+        "Chiu-Hsuan Wang",
+        "Chia-En Tsai",
+        "Seraphina Yong",
+        "Liwei Chan"
+      ],
+      "institution": [
+        "Nation Chiao Tung University",
+        "Institute of Multimedia Engineering",
+        "National Taiwan University",
+        "Computer Science"
+      ],
+      "country": [
+        "Taiwan",
+        "Taiwan",
+        "Taiwan",
+        "Taiwan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415868",
+      "title": "Slice of Light: Transparent and Integrative Transition Among Realities in a Multi-HMD-User Environment"
+    },
+    {
+      "author": [
+        "Haijun Xia"
+      ],
+      "institution": [
+        "University of California, San Diego"
+      ],
+      "country": [
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415845",
+      "title": "Crosspower: Bridging Graphics and Linguistics"
+    },
+    {
+      "author": [
+        "Geoffrey Yu",
+        "Tovi Grossman",
+        "Gennady Pekhimenko"
+      ],
+      "institution": [
+        "University of Toronto",
+        "University of Toronto",
+        "University of Toronto"
+      ],
+      "country": [
+        "Canada",
+        "Canada",
+        "Canada"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415890",
+      "title": "Skyline: Interactive In-Editor Computational Performance Profiling for Deep Neural Network Training"
+    },
+    {
+      "author": [
+        "Haruki Takahashi",
+        "Parinya Punpongsanon",
+        "Jeeeun Kim"
+      ],
+      "institution": [
+        "Meiji University",
+        "Osaka University",
+        "Texas A&M University"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415863",
+      "title": "Programmable Filament: Printed Filaments for Multi-material 3D Printing"
+    },
+    {
+      "author": [
+        "Yoonji Kim",
+        "Hyein Lee",
+        "Ramkrishna Prasad",
+        "Seungwoo Je",
+        "Youngkyung Choi",
+        "Daniel Ashbrook",
+        "Ian Oakley",
+        "Andrea Bianchi"
+      ],
+      "institution": [
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "KAIST",
+        "University of Copenhagen",
+        "UNIST",
+        "KAIST"
+      ],
+      "country": [
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Korea, Republic of",
+        "Denmark",
+        "Korea, Republic of",
+        "Korea, Republic of"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415887",
+      "title": "SchemaBoard: Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization"
+    },
+    {
+      "author": [
+        "Yuta Noma",
+        "Koya Narumi",
+        "Fuminori Okuya",
+        "Yoshihiro Kawahara"
+      ],
+      "institution": [
+        "The University of Tokyo",
+        "The University of Tokyo",
+        "The University of Tokyo",
+        "The University of Tokyo"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415853",
+      "title": "Pop-up Print: Rapidly 3D Printing Mechanically Reversible Objects in the Folded State"
+    },
+    {
+      "author": [
+        "Yu-Jung Ko",
+        "HANG ZHAO",
+        "Yoonsang Kim",
+        "IV Ramakrishnan",
+        "Shumin Zhai",
+        "Xiaojun Bi"
+      ],
+      "institution": [
+        "Stony Brook University",
+        "Stony Brook University",
+        "Stony Brook University",
+        "Stony Brook University",
+        "Google",
+        "Stony Brook University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415871",
+      "title": "Modeling Two Dimensional Touch Pointing"
+    },
+    {
+      "author": [
+        "Mary Beth Kery",
+        "Donghao Ren",
+        "Fred Hohman",
+        "Dominik Moritz",
+        "Kanit Wongsuphasawat",
+        "Kayur Patel"
+      ],
+      "institution": [
+        "Carnegie Mellon University",
+        "Apple Inc.",
+        "Georgia Institute of Technology",
+        "Apple Inc.",
+        "Apple Inc.",
+        "Apple Inc"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415842",
+      "title": "mage: Fluid Moves Between Code and Graphical Work in Computational Notebooks"
+    },
+    {
+      "author": [
+        "Frederik Brudy",
+        "David Ledo",
+        "Michel Pahud",
+        "Nathalie Henry Riche",
+        "Christian Holz",
+        "Anand Waghmare",
+        "Hemant Surale",
+        "Marcus Peinado",
+        "Xiaokuan Zhang",
+        "Shannon Joyner",
+        "Badrish Chandramouli",
+        "Umar Farooq Minhas",
+        "Jonathan Goldstein",
+        "William Buxton",
+        "Ken Hinckley"
+      ],
+      "institution": [
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "ETH Zurich",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research",
+        "Microsoft Research"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "Switzerland",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415874",
+      "title": "SurfaceFleet: Exploring Distributed Interactions Unbounded from Device, Application, User, and Time"
+    },
+    {
+      "author": [
+        "Tianyi Zhang",
+        "London Lowmanstone",
+        "Xinyu Wang",
+        "Elena Glassman"
+      ],
+      "institution": [
+        "Harvard University",
+        "Harvard University",
+        "University of Michigan",
+        "Harvard University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415900",
+      "title": "Interactive Program Synthesis by Augmented Examples"
+    },
+    {
+      "author": [
+        "Amy Zhang",
+        "Grant Hugh",
+        "Michael Bernstein"
+      ],
+      "institution": [
+        "University of Washington",
+        "Stanford University",
+        "Stanford University"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415858",
+      "title": "PolicyKit: Building Governance in Online Communities"
+    },
+    {
+      "author": [
+        "Dong-Hyun Hwang",
+        "Kohei Aso",
+        "Ye Yuan",
+        "Kris Kitani",
+        "Hideki Koike"
+      ],
+      "institution": [
+        "Tokyo Institute of Technology",
+        "Tokyo Institute of Technology",
+        "Carnegie Mellon University",
+        "Carnegie Mellon University",
+        "Tokyo Institute of Technology"
+      ],
+      "country": [
+        "Japan",
+        "Japan",
+        "United States",
+        "United States",
+        "Japan"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415856",
+      "title": "MonoEye: Multimodal Human Motion Capture System Using A Single Ultra-Wide Fisheye Camera"
+    },
+    {
+      "author": [
+        "Philippe Schmid",
+        "Sylvain Malacria",
+        "Andy Cockburn",
+        "Mathieu Nancel"
+      ],
+      "institution": [
+        "Inria Lille - Nord Europe",
+        "Inria",
+        "University of Canterbury",
+        "Inria Lille - Nord Europe"
+      ],
+      "country": [
+        "France",
+        "France",
+        "New Zealand",
+        "France"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415883",
+      "title": "Interaction Interferences: Implications of Last-Instant System State Changes"
+    },
+    {
+      "author": [
+        "Te-Yen Wu",
+        "Lu Tan",
+        "Yuji Zhang",
+        "Teddy Seyed",
+        "Xing-Dong Yang"
+      ],
+      "institution": [
+        "Dartmouth College",
+        "Dartmouth College ",
+        "Dartmouth College",
+        "Microsoft Research",
+        "Dartmouth College"
+      ],
+      "country": [
+        "United States",
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415829",
+      "title": "Capacitivo: Contact-Based Object Recognition on Interactive Fabrics using Capacitive Sensing   "
+    },
+    {
+      "author": [
+        "Pascal Jansen",
+        "Fabian Fischbach",
+        "Jan Gugenheimer",
+        "Evgeny Stemasov",
+        "Julian Frommel",
+        "Enrico Rukzio"
+      ],
+      "institution": [
+        "Ulm University",
+        "Institute of Media Informatics, Ulm University",
+        "Institut Polytechnique de Paris",
+        "Ulm University",
+        "University of Saskatchewan",
+        "University of Ulm"
+      ],
+      "country": [
+        "Germany",
+        "Germany",
+        "France",
+        "Germany",
+        "Canada",
+        "Germany"
+      ],
+      "url": "https://dl.acm.org/doi/10.1145/3379337.3415843",
+      "title": "ShARe: Enabling Co-Located Asymmetric Multi-User Interaction for Augmented Reality Head-Mounted Displays"
+    }
+  ]
+}
