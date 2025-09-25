@@ -5,7 +5,7 @@ const inDir = 'in_json';
 const outDir = 'out_json';
 
 const startYear = 20;
-const endYear = 24;
+const endYear = 25;
 
 function transformData(data, year) {
 
@@ -41,7 +41,7 @@ function transformData(data, year) {
           author: authors,
           institution: institutions,
           country: countries,
-          url: paper.addons.doi?.url || '',
+          url: paper.addons?.doi?.url || '',
           title: paper.title
         };
       });
