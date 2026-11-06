@@ -5,22 +5,29 @@ const inDir = 'in_json';
 const outDir = 'out_json';
 
 const startYear = 20;
-const endYear = 25;
+const endYear = 26;
 
 function transformData(data, year) {
 
     // Find the track ID for "UIST 20${year} Papers"
-    const trackName = `UIST 20${year} Papers`;
-    const track = data.tracks.find(track => track.name === trackName);
-    if (!track) {
+    const trackNames = [`UIST 20${year} Papers`, `Papers`];
+    const track_papers = data.tracks.find(track => trackNames.indexOf(track.name)>-1);
+    const trackName = `Short Papers`;
+    const track_short_papers = data.tracks.find(track => track.name == trackName);
+    const tracks = [];
+    if (track_papers)
+      tracks.push(track_papers);
+    if (track_short_papers)
+      tracks.push(track_short_papers);
+    if (tracks === []) {
       return { papers: [] };
     }
-    const trackId = track.typeId;
+    const trackId = tracks.map((track) => track.typeId);
 
     // Filter out the papers and metadata
     const proceedings = `uist${year}`;
     const papers = data.contents
-      .filter(paper => paper.typeId === trackId) 
+      .filter(paper => trackId.indexOf(paper.typeId)>-1) 
       .map(paper => {
         const authors = paper.authors.map(author => {
           const person = data.people.find(person => person.id === author.personId);
